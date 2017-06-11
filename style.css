@@ -32,7 +32,7 @@ header li:hover {
 
 }
 .content {
-  margin-top: 100px;
+
 }
 #logo {
   height: 50px;
@@ -124,7 +124,7 @@ footer {
 }
 #entertainment {
   height: 400px;
-  background: url("images/home_theater.jpg") no-repeat center center fixed;
+  background: url("images/patio.bmp") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
